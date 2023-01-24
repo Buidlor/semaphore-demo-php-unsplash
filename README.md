@@ -2,6 +2,8 @@
 
 # Unsplash Image Gallery Demo
 
+https://semaphoreci.com/community/tutorials/dockerizing-a-php-application
+
 This is a PHP Laravel image gallery demo that pulls images from the [Unsplash PHP API](https://github.com/unsplash/unsplash-php).
 
 ## Prerequisites
